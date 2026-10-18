@@ -20,4 +20,4 @@
 2. Закиньте файл в папку `plugins` вашего сервера.
 3. Перезапустите сервер.
 
-*Требования: Paper/Purpur 1.20+, WorldGuard 7.0+*
+*Требования: Paper/Purpur 1.21+ (Java 21), WorldGuard 7.0.15+ (тестировалось на WorldGuard 7.0.15 и WorldEdit 7.4.2)*
